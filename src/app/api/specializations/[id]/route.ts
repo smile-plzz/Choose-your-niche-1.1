@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from 'next/server';
+import {  NextResponse } from 'next/server';
 import { specializations } from '@/data/specializations';
 
 // API route to get a specific specialization by ID
